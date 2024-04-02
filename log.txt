@@ -1,0 +1,15 @@
+02/04/2024 16:26:58 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:26:59 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:26:59 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:26:59 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:27:02 - https://www.marciocoelho.com.br - online: true
+02/04/2024 16:27:07 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:27:07 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:27:08 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:27:08 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:27:09 - https://www.marciocoelho.com.br - online: true
+02/04/2024 16:27:14 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:27:14 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:27:14 - https://httpbin.org/status/200 - online: true
+02/04/2024 16:27:15 - https://httpbin.org/status/404 - online: false
+02/04/2024 16:27:16 - https://www.marciocoelho.com.br - online: true
